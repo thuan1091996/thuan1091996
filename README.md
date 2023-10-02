@@ -15,8 +15,7 @@
         </a>
         <div style="display: flex; justify-content: center;">
             <h3 style="text-align: center; width: 1024px;">
-                Hi 👋, I'm Thuan, an experienced embedded software engineer specializing in the IoT domain, and I
-                have <br> a strong passion for exploring new technologies.
+                Hi 👋, I'm Thuan, an experienced embedded software engineer specializing in the IoT domain, and I have a strong passion for exploring new technologies.
             </h3>
         </div>
     </div>
