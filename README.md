@@ -18,7 +18,7 @@
     <div class="container" style="max-width: 1024px; margin: auto;">
         <a href="https://github.com/thuan1091996">
             <div style=" display: flex; justify-content: center;">
-                <img src="./preview.png" alt="MasterHead" style="width: 100%; height: 300px;">
+                <img src="./images/preview.png" alt="MasterHead" style="width: 100%; height: 300px;">
             </div>
         </a>
         <div style="display: flex; justify-content: center;">
